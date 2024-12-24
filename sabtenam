@@ -1,12 +1,12 @@
 [
   {
-    "image": "000",
-    "text": "111",
-    "url": "222"
+    "img": "https://biaupload.com/do.php?imgf=org-3d841afd5e6e1.jpg",
+    "txt": "111",
+    "url": "111"
   },
   {
-    "image": "000",
-    "text": "111",
+    "img": "https://biaupload.com/do.php?imgf=org-3d841afd5e6e1.jpg",
+    "txt": "111",
     "url": "222"
   }
 ]
