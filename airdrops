@@ -1,12 +1,12 @@
 [
   {
     "img": "https://biaupload.com/do.php?imgf=org-3d841afd5e6e1.jpg",
-    "txt": "111",
-    "url": "111"
+    "txt": "متن پیش‌فرض",
+    "url": "https://raw.githubusercontent.com/amirhosein-s22/list-airdrops/refs/heads/main/test"
   },
   {
     "img": "https://biaupload.com/do.php?imgf=org-fbd8fc61b7c92.jpg",
-    "txt": "111",
-    "url": "222"
+    "txt": "تست متن",
+    "url": "https://raw.githubusercontent.com/amirhosein-s22/list-airdrops/refs/heads/main/test"
   }
 ]
